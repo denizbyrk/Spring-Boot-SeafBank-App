@@ -28,15 +28,9 @@ SeafBank is a backend banking application built with Java and Spring Boot, with 
 
   - Hardcoded conversion rates between USD, EUR, TRY
 
-  - API-ready structure for future live exchange integration
-
 - **Transaction Logging**
 
   - Every action (deposit, withdraw, transfer, interest) stored as a transaction
-
-- **Global Exception Handling**
-
-  - Meaningful error responses for invalid actions or URLs
 
 ## Technologies
 
